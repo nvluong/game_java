@@ -1,0 +1,12 @@
+- có 2 đối tượng
+A gửi B nhận
+điểu kiện A và B phải có quan hệ
+A thuoc tính của B
+
+- các bước thực hiện :
+0. A thuộc tính B
+1. tạo ra 1 interface.
+2. Interface đó là thuộc tính của A
+3. B impliment interface
+nơi nào gửi thì nơi đó có thuộc tính interface
+nhận thì imliment
